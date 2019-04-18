@@ -499,7 +499,7 @@ header{
 }
 .technical .skills{
 	margin:0 auto;
-	margin-bottom:23px;
+	margin-bottom:60px;
 	text-align:center;
 	padding:0px;
 	float:none;
@@ -519,6 +519,11 @@ header{
 
 .technical .skills h4{
 	font-weight:700;
+	text-transform:uppercase;
+}
+
+.technical .skills h5{
+	font-weight:900;
 	text-transform:uppercase;
 }
 
@@ -600,7 +605,7 @@ header{
 .workYear{
 	font-size:17px;
 	color:#fff;
-	background:#ff675f;
+	background: #15596e;
 	text-align:center;
 	width:120px;
 	height:120px;
@@ -678,6 +683,12 @@ header{
 
 .education .workDetails .rightArea{
 	border-left-color:#e5e4e4;
+}
+
+.education .workYear{
+	font-size:17px;
+	color:#fff;
+	background: #ff675f;
 }
 
 

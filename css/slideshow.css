@@ -52,24 +52,24 @@
 	Slid Show image part
 -----------------------------------------*/ 
 .cb-slideshow li:nth-child(1) span {
-	 background-image: url(http://placehold.it/1600x900&text=image1);
+	 background-image: url(../images/image1.jpg);
 	 
 }
 .cb-slideshow li:nth-child(2) span {
-	 background-image: url(http://placehold.it/1600x900&text=image2);
-	 -webkit-animation-delay: 15s;
-	 -moz-animation-delay: 15s;
-	 -o-animation-delay: 15s;
-	 -ms-animation-delay: 15s;
-	 animation-delay: 15s;
+	 background-image: url(../images/image2.jpg);
+	 -webkit-animation-delay: 12s;
+	 -moz-animation-delay: 12s;
+	 -o-animation-delay: 12s;
+	 -ms-animation-delay: 12s;
+	 animation-delay: 12s;
 }
 .cb-slideshow li:nth-child(3) span {
-	 background-image: url(http://placehold.it/1600x900&text=image3);
-	 -webkit-animation-delay: 30s;
-	 -moz-animation-delay: 30s;
-	 -o-animation-delay: 30s;
-	 -ms-animation-delay: 30s;
-	 animation-delay: 30s;
+	 background-image: url(../images/image3.jpg);
+	 -webkit-animation-delay: 24s;
+	 -moz-animation-delay: 24s;
+	 -o-animation-delay: 24s;
+	 -ms-animation-delay: 24s;
+	 animation-delay: 24s;
 }
 
 
